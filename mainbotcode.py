@@ -19,6 +19,7 @@ import string
 import requests #pip install requests
 #feel free to add more
 
+ownerdude = () #add your discord id here - not token, discord id
 #main code starts here!
 client = commands.Bot(command_prefix='$')#thats your command prefix
 #whatever code you want to add, do it after this line
