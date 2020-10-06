@@ -6,6 +6,8 @@ It Would Greatly Support Me If You Joined The Coolest Discord Server Ever: https
 
 Also, Feel Free To Donate, If You Actually Do, I'll Make You A Custom Discord Bot XD - https://paypal.me/togs66
 
+**ALSO, I'm always wanting to add more stuff to the bot, so feel free to tell me if you want me to add something, ill do it asap!**
+
 # Notes
 Ok, Let Me Explain...
 For This Bot, You don't at all need any python experience, you just have to grab the necessary codes from each file into your main file!
@@ -77,6 +79,44 @@ async def kick(ctx, member: discord.Member, *, reason=None):
 #your code shouldn't cross this line!
 client.run('token here')
 ```
+# NECESSARY IMPORTS YOU MAY WANNA ADD:
+```
+#discord imports - pip install discord
+import discord
+import discord.ext.commands
+from discord.ext.commands import bot
+from discord import Game
+from discord.ext import commands
+from discord.ext.commands import CommandNotFound
+from discord.ext.commands import errors
+import discord.utils
+from discord.utils import find, get
+import asyncio
+import aiohttp
+
+#necessary imports
+import platform
+import os
+import random
+import string
+import requests #pip install requests
+import math
+import colorama
+import steam #pip install steam
+import binascii
+import subprocess
+import json
+import sys
+import colorsys
+import time
+import urllib, urllib3
+import datetime
+import webbrowser
+import collections
+import art
+#feel free to add more
+```
+
 **That's all! - NO PYTHON KNOWLEDGE REQUIRED XD! - THIS SHOULD LITERALLY TAKE YOU 15 Minutes!**
 
 **AGAIN, IF YOU NEED HELP: https://discord.gg/vSxuAbq
