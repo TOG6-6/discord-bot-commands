@@ -1,4 +1,6 @@
 # DISCORD BOT COMMANDS
+**I AM TRYING TO MAKE A PROJECT WHERE PEOPLE CAN MAKE DISCORD.PY BOTS WITH 0% KNOWLEDGE WITH PYTHON OR DISCORD.PY!**
+
 Every Command You Would Ever Need For Your Discord.py Bot!
 
 If You Need Any Help, Please Feel Free To DM Me: TOG6#6666
@@ -91,8 +93,8 @@ from discord.ext.commands import CommandNotFound
 from discord.ext.commands import errors
 import discord.utils
 from discord.utils import find, get
-import asyncio
-import aiohttp
+import asyncio #pip install asyncio
+import aiohttp #pip install aiohttp
 
 #necessary imports
 import platform
@@ -101,19 +103,19 @@ import random
 import string
 import requests #pip install requests
 import math
-import colorama
+import colorama #pip install colorama
 import steam #pip install steam
 import binascii
 import subprocess
 import json
 import sys
-import colorsys
+import colorsys #pip install colorsys
 import time
-import urllib, urllib3
-import datetime
-import webbrowser
-import collections
-import art
+import urllib, urllib3 #pip install urllib
+import datetime #pip install datetime
+import webbrowser #pip install webbrowser
+import collections #pip install collections
+import art #pip install art/ pip install text2art
 #feel free to add more
 ```
 
