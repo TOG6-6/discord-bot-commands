@@ -83,7 +83,7 @@ client.run('token here')
 ```
 # NECESSARY IMPORTS YOU MAY WANNA ADD:
 ```
-#discord imports                                                                                                                                       #pip install discord
+#discord imports                                                                                                             #pip install discord
 import discord
 import discord.ext.commands
 from discord.ext.commands import bot
@@ -93,29 +93,29 @@ from discord.ext.commands import CommandNotFound
 from discord.ext.commands import errors
 import discord.utils
 from discord.utils import find, get
-import asyncio                                                                                                                                          #pip install asyncio
-import aiohttp                                                                                                                                          #pip install aiohttp
+import asyncio                                                                                                               #pip install asyncio
+import aiohttp                                                                                                               #pip install aiohttp
 
 #necessary imports
 import platform
 import os
 import random
 import string
-import requests                                                                                                                                         #pip install requests
+import requests                                                                                                              #pip install requests
 import math
-import colorama                                                                                                                                         #pip install colorama
-import steam                                                                                                                                            #pip install steam
+import colorama                                                                                                              #pip install colorama
+import steam                                                                                                                 #pip install steam
 import binascii
 import subprocess
 import json
 import sys
-import colorsys                                                                                                                                         #pip install colorsys
+import colorsys                                                                                                              #pip install colorsys
 import time
-import urllib, urllib3                                                                                                                                  #pip install urllib
-import datetime                                                                                                                                         #pip install datetime
-import webbrowser                                                                                                                                       #pip install webbrowser
-import collections                                                                                                                                      #pip install collections
-import art                                                                                                                                #pip install art/ pip install text2art
+import urllib, urllib3                                                                                                       #pip install urllib
+import datetime                                                                                                              #pip install datetime
+import webbrowser                                                                                                            #pip install webbrowser
+import collections                                                                                                           #pip install collections
+import art                                                                                                                   #pip install art/ pip install text2art
 #feel free to add more
 ```
 
