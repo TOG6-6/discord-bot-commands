@@ -4,7 +4,7 @@
 Every Command You Would Ever Need For Your Discord.py Bot!
 
 If You Need Any Help, Please Feel Free To DM Me: TOG6#6666
-It Would Greatly Support Me If You Joined The Coolest Discord Server Ever: https://discord.gg/vSxuAbq
+It Would Greatly Support Me If You Joined The Coolest Discord Server Ever: https://discord.gg/J7Qh9Q7
 
 Also, Feel Free To Donate, If You Actually Do, I'll Make You A Custom Discord Bot XD - https://paypal.me/togs66
 
@@ -34,7 +34,7 @@ You can get the necessary code from the py files in each folder just by copy pas
 [3] You now need a compiler or an editor! - I personally use Visual Studio Code (https://code.visualstudio.com) But feel free to use whatever you like!
 --- Good options are Codeblocks, Visual Studio, Pycharm, Atom, Anaconda Navigator, Sublime Text etc!
 [4] Now open cmd and type pip - it will show you pip info!
---- If it doesn't contact me and I'll be happy to help! - https://discord.gg/vSxuAbq
+--- If it doesn't contact me and I'll be happy to help! - https://discord.gg/J7Qh9Q7
 [5] Type in the following commands 1 by 1:
 ```
 pip install discord
