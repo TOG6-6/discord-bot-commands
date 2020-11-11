@@ -113,6 +113,7 @@ import colorsys                                                                 
 import time
 import urllib, urllib3                                                                    #pip install urllib
 import datetime                                                                           #pip install datetime
+from datetime import datetime
 import webbrowser                                                                         #pip install webbrowser
 import collections                                                                        #pip install collections
 import art                                                                                #pip install art/ pip install text2art
@@ -121,5 +122,5 @@ import art                                                                      
 
 **That's all! - NO PYTHON KNOWLEDGE REQUIRED XD! - THIS SHOULD LITERALLY TAKE YOU 15 Minutes!**
 
-**AGAIN, IF YOU NEED HELP: https://discord.gg/vSxuAbq
+**AGAIN, IF YOU NEED HELP: https://discord.gg/J7Qh9Q7
 IF YOU WANT TO DONATE: https://paypal.me/togs66 **
