@@ -1,9 +1,20 @@
 #your usual discord imports
+@bot.event
+async def on_command_error(ctx, error):
+    embed = discord.Embed(title="Error", color=0xff0000, description=str(error))
+  await ctx.channel.send(embed=embed)
+
+
+
+
+
+
+
 @client.event
 async def on_command_error(ctx, error):
     if isinstance(error, CommandNotFound):
         await ctx.send("**`Command doesn't exist!`**")
-        return
+        retur
 
     if isinstance(error, commands.CommandOnCooldown):
         coolerrr = "**`Mate `" + (ctx.author.mention) + "` You are on cooldown for {:.2f}s. Please Be Patient!`**".format(error.retry_after)
